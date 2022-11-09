@@ -1,3 +1,5 @@
 # Emoji Interpreter
 This app tells the meaning of emoji given.<br/>
-[Checkout the app](https://2qinvy.csb.app/)
+[Checkout the app](https://2qinvy.csb.app/)<br/>
+
+![Screenshot](/imageE.png)
